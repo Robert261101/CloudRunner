@@ -2,7 +2,9 @@
 SISTEM DE ACCES BAZAT PE PROCESARE VIDEO ȘI QR
            
            
-           În acest proiect este prezentat unu sistem de gestiune a angajaților într-o firmă. Necesitatea este de a avea un instrument eficient și precis pentru a monitoriza prezența angajaților și a accesului în firmă, pentru a gestiona lista angajaților și pentru a genera rapoarte cu diferiți parametri măsurați. Scopul acestui sistem este de a asigura o gestionare optimă a angajaților într-o firmă, pentru a optimiza procesele de lucru, pentru a îmbunătăți securitatea și pentru a asigura o administrare corectă a salariilor și a altor beneficii oferite de către firmă angajaților.
+           În acest proiect este prezentat unu sistem de gestiune a angajaților într-o firmă. 
+           Necesitatea este de a avea un instrument eficient și precis pentru a monitoriza prezența angajaților și a accesului în firmă, pentru a gestiona lista angajaților și pentru a genera rapoarte cu diferiți parametri măsurați. 
+           Scopul acestui sistem este de a asigura o gestionare optimă a angajaților într-o firmă, pentru a optimiza procesele de lucru, pentru a îmbunătăți securitatea și pentru a asigura o administrare corectă a salariilor și a altor beneficii oferite de către firmă angajaților.
           Obiectivele sistemului sunt multiple și includ:
 •	Monitorizarea precisă a prezenței angajaților la locul de muncă, pentru a asigura o eficiență sporită a proceselor de lucru.
 •	Monitorizarea accesului angajaților în firmă, pentru a asigura o securitate sporită și pentru a preveni accesul neautorizat.
